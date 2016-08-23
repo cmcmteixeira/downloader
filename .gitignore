@@ -1,5 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 files/*
 !files/.gitkeep
+links/*
+!links/.gitkeep
 node_modules
 .idea
